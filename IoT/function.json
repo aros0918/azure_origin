@@ -1,0 +1,14 @@
+﻿{
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "eventHubMessages",
+      "connection": "mf-iot_events_IOTHUB",
+      "eventHubName": "samples-workitems",
+      "consumerGroup": "backend",
+      "cardinality": "many",
+      "direction": "in",
+      "type": "eventHubTrigger"
+    }
+  ]
+}

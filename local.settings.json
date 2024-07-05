@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=mfstor;AccountKey=d4uYF6Q4gtAtBKh4P/YoQbJeZqS+V1e6buhPtFnDQ8L3ATjA4m80gkS8P/fJSka/46ZEeU5RkWWTDiskR8M9cg==;EndpointSuffix=core.windows.net",
+      "FUNCTIONS_WORKER_RUNTIME": "node",
+      "example_EVENTHUB": "Endpoint=sb://iothub-ns-mf-iot-1198538-b726ec55db.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=/AYqPd0oKc7JVafwSjPxgXnLajQmQq33G8Eg9glQzEI=;EntityPath=mf-iot"
+    }
+  }
+  
+  
+  

@@ -1,0 +1,3 @@
+name1;name2;supplement1perdose;supplement2perdose;dosespervisit1;dosespervisit2;default1perday;default2perday;24hoursvisitsmax;rollingperiod;startday1;endday1;startday2;endday2;kalibmode
+Pitstop+ StartLac;Pitstop+ CloseUp;15;15;2;2;100;150;100;6;0;100;-21;0;False
+
